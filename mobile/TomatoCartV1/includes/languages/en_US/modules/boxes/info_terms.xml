@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition> 
+      <key>box_information_info_terms</key> 
+      <value><![CDATA[My New Page]]></value> 
+      <group>modules-boxes</group> 
+    </definition>
+  </definitions>
+</language>
